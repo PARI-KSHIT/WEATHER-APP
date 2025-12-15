@@ -38,7 +38,7 @@ Clone the repository:
 
 Bash
 
-git clone https://your-github-repo-link.git
+git clone https://github.com/PARI-KSHIT/WEATHER-APP.git
 Navigate to the project directory:
 
 Bash
