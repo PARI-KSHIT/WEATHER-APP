@@ -1,4 +1,5 @@
-# WEATHER-APP
+  WEATHER-APP
+  
 A responsive weather application built with HTML, CSS, and vanilla JavaScript. It fetches real-time temperature, humidity, and wind data using an external Weather API. Users can search for current conditions in any city. This project showcases API integration and dynamic UI updates.  Tech HTML5 | CSS3 | JavaScript
 
 ☁️ Weather App
@@ -37,7 +38,7 @@ Installation
 Clone the repository:
 
 Bash
-
+ 
 git clone https://github.com/PARI-KSHIT/WEATHER-APP.git
 Navigate to the project directory:
 
