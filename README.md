@@ -32,7 +32,7 @@ External API: Used an API (e.g., OpenWeatherMap, AccuWeather) to get weather dat
 Follow these simple steps to get a local copy up and running:
 
 Prerequisites
-You only need a modern web browser to run this application.
+You only need a modern web browser to run this application.....
 
 Installation
 Clone the repository:
@@ -44,7 +44,7 @@ Navigate to the project directory:
 
 Bash
 
-cd weather-app
+cd Weather-App
 Open the file: Simply open the index.html file in your preferred web browser.
 
 Note: If you are using a public weather API, you might need to insert your own API key in the JavaScript file to make the data fetching work. Look for a variable named something like API_KEY in the script.js file.
